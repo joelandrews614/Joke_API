@@ -1,0 +1,41 @@
+
+
+
+body {
+    background-color: darkseagreen;
+    color: brown;
+    font-family:cursive;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    border: solid 2px black;
+    padding: 10px;
+    padding-left: 20px;
+    
+    margin: 20px;
+    margin-top: 60px;
+}
+.container1 .title {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+
+.container2 {
+    padding: 60px;
+}
+
+.container2 button {
+    width: 180px;
+    height: 100px;
+    border-radius: 10px;
+    
+    font-size: 20px;
+}
+
